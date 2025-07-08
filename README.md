@@ -164,3 +164,7 @@
 </p>
 
 ---
+<p align="Center">
+  <img src="https://komarev.com/ghpvc/?username=victorjames1502&label=Profile%20views&color=0e75b6&style=flat" alt="victorjames1502" />
+</p>
+
